@@ -1,0 +1,20 @@
+- pipeline: 'base_pop'
+  country: 'CO'
+  status: false
+  parameters:
+    read_table: 'a_schema'
+    read_schema: 'a_table'
+
+- pipeline: 'anotherpipe'
+  country: 'CO'
+  status: false
+  parameters:
+    read_table: 'a_schema'
+    read_schema: 'a_table'
+
+- pipeline: 'anotherpipe'
+  country: 'CO'
+  status: false
+  parameters:
+    read_table: 'a_schema'
+    read_schema: 'a_table'

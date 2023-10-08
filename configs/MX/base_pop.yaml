@@ -1,0 +1,23 @@
+- pipeline: 'base_pop'
+  country: 'MX'
+  status: true
+  parameters:
+    bp1: 'a_schema'
+    bp2: 'a_table'
+    bp3: 'anotherthing'
+
+- pipeline: 'otherpipe'
+  country: 'MX'
+  status: true
+  parameters:
+    op1: 'a_schema'
+    op2: 'a_table'
+    op3: 'somthing'
+
+- pipeline: 'anotherpipe'
+  country: 'MX'
+  status: true
+  parameters:
+    ap1: 'a_schema'
+    ap2: 'a_table'
+    ap3: 'smthg'
